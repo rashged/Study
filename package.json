@@ -29,3 +29,9 @@
     "typescript": "^5.5.4"
   }
 }
+{
+  "name": "studyflow",
+  ...
+  "engines": { "node": "20.x" },
+  "packageManager": "npm@10.8.1"
+}
