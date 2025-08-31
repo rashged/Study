@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+.env.local
+dist
+.prisma
+.DS_Store
+.vscode
+coverage
